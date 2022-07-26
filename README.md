@@ -1,2 +1,2 @@
-# component-lib
+# Libscuit
 Templates and web components
